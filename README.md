@@ -36,34 +36,33 @@ npm start
 O sistema irá iniciar e solicitará as seguintes informações em sequência:
 
 Dados do Cliente:
+°Nome
+°Nome social
+°Data de cadastro
+°Data de nascimento
+°Endereço:
 
-Nome
-Nome social
-Data de cadastro
-Data de nascimento
-Endereço:
+°Rua
+°Bairro
+°Cidade
+°Estado
+°País
+°Código postal
+°Telefone:
 
-Rua
-Bairro
-Cidade
-Estado
-País
-Código postal
-Telefone:
+°DDD
+°Número
+°Documento:
 
-DDD
-Número
-Documento:
+°Data de expedição
+°Número do documento
+°Tipo (CPF, RG, Passaporte)
+°Dados do Dependente:
 
-Data de expedição
-Número do documento
-Tipo (CPF, RG, Passaporte)
-Dados do Dependente:
-
-Nome social
-Data de cadastro
-Data de nascimento
-Documento (mesmas informações do titular)
+°Nome social
+°Data de cadastro
+°Data de nascimento
+°Documento (mesmas informações do titular)
 
 ## 🔄 Fluxo de Execução
 
