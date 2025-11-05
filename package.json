@@ -4,6 +4,7 @@
   "description": "",
   "main": "js/teste/index.js",
   "scripts": {
+    "start": "ts-node teste/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -12,5 +13,9 @@
     "@types/node": "^17.0.21",
     "@types/prompt-sync": "^4.1.1",
     "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }

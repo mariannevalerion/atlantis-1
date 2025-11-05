@@ -1,12 +1,12 @@
 import Prototipo from "../interfaces/prototipo"
 
 export default class Endereco implements Prototipo {
-    public rua: string
-    public bairro: string
-    public cidade: string
-    public estado: string
-    public pais: string
-    public codigoPostal: string
+    public rua: string;
+    public bairro: string;
+    public cidade: string;
+    public estado: string;
+    public pais: string;
+    public codigoPostal: string;
 
     public clonar(): Prototipo {
         let endereco = new Endereco()
@@ -16,6 +16,6 @@ export default class Endereco implements Prototipo {
         endereco.estado = this.estado
         endereco.pais = this.pais
         endereco.codigoPostal = this.codigoPostal
-        return endereco
+        return endereco;
     }
 }
