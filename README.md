@@ -24,7 +24,7 @@ npm (geralmente vem com Node.js)
 🔧 Instalação
 Clone o repositório ou navegue até a pasta do projeto:
 
-git clone https://github.com/0thigs/atlantis-1.git
+git clone https:https://github.com/mariannevalerion/atlantis-1.git
 cd atlantis-1
 Instale as dependências:
 
